@@ -1,12 +1,12 @@
-ba5459f749808979d0a138e28622c42d *DESCRIPTION
+597414da3c4e4a86b816d48c3081f919 *DESCRIPTION
 69206d625c7a6b0525611ca734e0c798 *LICENSE
 f0298e787631d0a3b891ae5cebbe53ae *NAMESPACE
-72dafe243696fae5a5f34e1bb2dbbeca *NEWS.md
+85510f33de381eb4abc7c62509c76f24 *NEWS.md
 470d65df30bbfd1ba9294cc1230be5c6 *R/deps.R
 b7c7dc88fce8ff33d9fe9a45c77de0c6 *R/rules.R
 9b92746b3784b827fb7e76c4278bef23 *R/validator.R
 ebf4a2d434deda24b9d03af3fbd1e51f *README.md
-19c7e26858bd6ebe54dad6d843160a15 *inst/assets/shinyvalidate.js
+dec0fa79d3e299277675ce48c593ab9d *inst/assets/shinyvalidate.js
 f7cec84992a583c531129c19739153a4 *inst/examples/01_simple/DESCRIPTION
 84849a3f78130cae642400e708819b40 *inst/examples/01_simple/README.md
 50b4ee2fc1db42387619b98edc77d8c7 *inst/examples/01_simple/app.R
@@ -31,7 +31,7 @@ a0feba536c1323b72d841cf694e29a11 *inst/examples/06_module_3/app.R
 8c6a287f278fce96ececf69f7f08017f *man/InputValidator.Rd
 e85695a53f1902b0ad8c996d1675ffa8 *man/compose_rules.Rd
 cdbd557c289c14ba6822004bf2d53870 *man/figures/demo.gif
-6c7b0ed10468ba02e9bbc3e56f05c33c *man/input_provided.Rd
+9895aac70e7723fa910b2a0090e5614d *man/input_provided.Rd
 9f6149fb67bc20507121c7fcd869b67c *man/skip_validation.Rd
 ad4fcd30824715234fe0bdb7c2cb2b11 *man/sv_between.Rd
 b824b1a81d136423346526fbf18b91d5 *man/sv_email.Rd
