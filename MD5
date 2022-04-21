@@ -1,12 +1,13 @@
-597414da3c4e4a86b816d48c3081f919 *DESCRIPTION
+8114f90ffad34f350bc6fde964ba1af2 *DESCRIPTION
 69206d625c7a6b0525611ca734e0c798 *LICENSE
 f0298e787631d0a3b891ae5cebbe53ae *NAMESPACE
-85510f33de381eb4abc7c62509c76f24 *NEWS.md
+a75e974b8ca66f8089030e521e7e3531 *NEWS.md
 470d65df30bbfd1ba9294cc1230be5c6 *R/deps.R
 b7c7dc88fce8ff33d9fe9a45c77de0c6 *R/rules.R
-9b92746b3784b827fb7e76c4278bef23 *R/validator.R
-ebf4a2d434deda24b9d03af3fbd1e51f *README.md
-dec0fa79d3e299277675ce48c593ab9d *inst/assets/shinyvalidate.js
+d01a2ff606b9627a6a3f84ef97fad453 *R/validator.R
+9d9f096e2707f67b13b4184ad37fee60 *R/zzz.R
+d82fdc24b3059f0bffd3b48d34a0d360 *README.md
+d8aa7603fe7168c8da2951527deb46e4 *inst/assets/shinyvalidate.js
 f7cec84992a583c531129c19739153a4 *inst/examples/01_simple/DESCRIPTION
 84849a3f78130cae642400e708819b40 *inst/examples/01_simple/README.md
 50b4ee2fc1db42387619b98edc77d8c7 *inst/examples/01_simple/app.R
@@ -28,7 +29,7 @@ f7cec84992a583c531129c19739153a4 *inst/examples/05_module_2/DESCRIPTION
 f7cec84992a583c531129c19739153a4 *inst/examples/06_module_3/DESCRIPTION
 394920f4e7bed50dd27cfd0f556e8798 *inst/examples/06_module_3/README.md
 a0feba536c1323b72d841cf694e29a11 *inst/examples/06_module_3/app.R
-8c6a287f278fce96ececf69f7f08017f *man/InputValidator.Rd
+5a1f25545082e2293c981ba8f1c41d48 *man/InputValidator.Rd
 e85695a53f1902b0ad8c996d1675ffa8 *man/compose_rules.Rd
 cdbd557c289c14ba6822004bf2d53870 *man/figures/demo.gif
 9895aac70e7723fa910b2a0090e5614d *man/input_provided.Rd
@@ -49,6 +50,6 @@ bb519c7c5c4431a1213f052c07bb781f *man/sv_optional.Rd
 426f535005472f9fa6ccd120f46b5ff2 *man/sv_required.Rd
 a2ac19336b81d2576896b50770cfb3e4 *man/sv_url.Rd
 58da06a654579a7eec69967ea376d466 *tests/testthat.R
-d437278f67f5fbba0c1d8fd63326a8cf *tests/testthat/_snaps/validator.md
-1b9d4296c4e3e4cf6258afd9471606f0 *tests/testthat/test-rules.R
-b1c432c02cb79cf99f2337bd57ed9897 *tests/testthat/test-validator.R
+953f8a1a93da9e452431308a3c4e29ef *tests/testthat/_snaps/validator.md
+e1f005d47b816dba7c4fd02266e7f295 *tests/testthat/test-rules.R
+0cf5b2aee7294ed733fe637b423f00be *tests/testthat/test-validator.R
